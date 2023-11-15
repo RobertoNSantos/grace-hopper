@@ -4,14 +4,14 @@ img{
 
 h1 {
 font-size: 30px;
-text-align: justify;
+text-align: center;
 }
 h2 {
-    text-align: center;
+    text-align: ju;
     }
 
 .texto {
-    text-align: center;
+    text-align: justify;
     color:rgb(33, 31, 31);
     font-size: 20px;
 }
